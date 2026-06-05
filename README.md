@@ -24,6 +24,7 @@ ZeroTrace is an automated cybersecurity assessment framework designed for author
 - External security tools: nmap, masscan, sqlmap, nikto, hydra, john, hashcat, amass, subfinder, dnsrecon, gobuster, ffuf, dirsearch, metasploit-framework  
 
 ## Installation  
+bash```
 git clone https://github.com/zaazouamouad/ZeroTrace.git  
 cd ZeroTrace  
 pip install -r requirements.txt  

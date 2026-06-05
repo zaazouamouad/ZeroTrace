@@ -40,8 +40,9 @@ This tool is intended strictly for authorized penetration testing, security rese
 ## Author  
 zaazouamouad — ZeroTrace Project
 
-## Installation  
-bash```
-git clone https://github.com/zaazouamouad/ZeroTrace.git  
-cd ZeroTrace  
-pip install -r requirements.txt  
+‏## Installation
+‏
+‏```bash
+‏git clone https://github.com/zaazouamouad/ZeroTrace.git
+‏cd ZeroTrace
+‏pip install -r requirements.txt
